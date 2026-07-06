@@ -22,8 +22,6 @@ or
 - Show Mines
 - Block and Unblock Mines
 
-## FAQ
-
-#### Disclaimer
+## Disclaimer
 
 This Minesweeper Trainer was tested on the original Windows XP Minesweeper game and the following executable downloaded from [Web Archive](https://archive.org/details/Mircosoft-Minesweeper-2001-XP). Other versions were not tested and may not work properly
